@@ -1504,7 +1504,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 1503	Embedded Technology	Built-in Microwave Ovens	Comfee	Microwave oven Comfee Cbm201X		131.17
 1504	Small Kitchen Appliances	Microwave ovens	Midea	Microwave oven Midea Ag820Nn1-B		97.88
 1505	Small Kitchen Appliances	Microwave ovens	Midea	Microwave oven Midea Em720Ckl-S		68.69
-1506	Small Kitchen Appliances	Microwave ovens	Midea	Microwave oven Midea Mg820Cj7- I2		113.87
+1506	Small Kitchen Appliances	Microwave ovens	Midea	Microwave oven Midea Mg950Cj7- I4		123.89
 1507	Small Kitchen Appliances	Microwave ovens	Midea	Microwave oven Midea Mg820Cj7- I2		113.87
 1508	Embedded Technology	Built-in Microwave Ovens	Bosch	Microwave oven Bosch Bel524Ms0		340.68
 1509	Embedded Technology	Built-in Microwave Ovens	Candy	Microwave oven Candy Mic 20 Gdfn		186.12
@@ -3746,7 +3746,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 3745	Computer equipment and components	Accessories for cameras and camcorders	Tamron	Lens Tamron "SP AF60mm F/2 Di II LD (IF) Macro 1:1" G005N for Nikon		264.23
 3746	Computer equipment and components	Accessories for cameras and camcorders	Tamron	Lens Tamron "SP AF90mm F/2.8 Di Macro 1:1" 272EN for Nikon		297.69
 3747	Computer equipment and components	Accessories and cables for video surveillance	Dahua	Pole Mount Bracket for HFWxxS, HFWxxR-Z/VF, SD60/6AE/6AL, SD59/50/40, SD6C, SD42, SD29 Dahua "DH-PFA152" cameras		26.3
-3748	Computer equipment and components	Accessories and cables for video surveillance	Dahua	Mounting box for outdoor cameras series HFWxxS Dahua "DH-PFA134"		11.77
+3748	Computer equipment and components	Accessories and cables for video surveillance	Dahua	Mounting box for outdoor cameras series PSWxxS Dahua "DH-PFBB220"		11.77
 3749	Computer equipment and components	Accessories and cables for video surveillance	Dahua	Mounting box for outdoor cameras series HFWxxS Dahua "DH-PFA134"		10.15
 3750	Computer equipment and components	Accessories and cables for video surveillance	Dahua	Wall box for HDW2 series enclosures Dahua "DH-PFA121"		23.65
 3751	Computer equipment and components	Accessories and cables for video surveillance	Dahua	Wall box for HDW4 Dahua series enclosures "DH-PFA122"		23.65
@@ -4440,7 +4440,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 4439	Computer equipment and components	Video cards	PNY Technologies	Video card PNY Technologies "Quadro K1200 4GB" (Quadro K1200, DDR5, 4x miniDP) (PCI-E)		366.67
 4440	Computer equipment and components	Video cards	PNY Technologies	Video card PNY Technologies "Quadro NVS 315 1GB" (Quadro NVS 315, DDR3, DMS-59) (PCI-E)		113.62
 4441	Computer equipment and components	Video cards	PNY Technologies	Video card PNY Technologies "Quadro NVS 510 2GB" (Quadro NVS 510, DDR3, 4x miniDP) (PCI-E)		435.5
-4442	Computer equipment and components	Video cards	PNY Technologies	Video card PNY Technologies "Quadro P2000 5GB" (Quadro P2000, DDR5, 4xDP) (PCI-E)		506.79
+4442	Computer equipment and components	Video cards	PNY Technologies	Video card PNY Technologies "Quadro P2100x 16GB" (Quadro P2100, DDR5, 4xDP) (PCI-E)		506.79
 4443	Computer equipment and components	Video cards	PNY Technologies	Video card PNY Technologies "Quadro P2000 5GB" (Quadro P2000, DDR5, 4xDP) (PCI-E)		523.85
 4444	Computer equipment and components	Video cards	PNY Technologies	Video card PNY Technologies "Quadro P400 2GB" (Quadro P400, DDR5, 3x miniDP) (PCI-E)		156.22
 4445	Computer equipment and components	Video cards	PNY Technologies	Video card PNY Technologies "Quadro P6000 24GB" (Quadro P6000, DDR5, DVI, 4xDP) (PCI-E)		5661.48
@@ -4815,7 +4815,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 4814	Computer equipment and components	Uninterruptible power supplies	CyberPower	UPS 500VA CyberPower "Value 500EI", Black (COM, USB)		38.94
 4815	Computer equipment and components	Uninterruptible power supplies	CyberPower	UPS 600VA CyberPower "BU600E", Black		53.54
 4816	Computer equipment and components	Uninterruptible power supplies	CyberPower	UPS 600VA CyberPower "Value 600EI", Black (COM, USB)		43.8
-4817	Computer equipment and components	Uninterruptible power supplies	CyberPower	UPS 650VA CyberPower "BS650E", Black (USB)		48.69
+4817	Computer equipment and components	Uninterruptible power supplies	CyberPower	UPS 650VA CyberPower "BS630X", Black (USB)		48.69
 4818	Computer equipment and components	Uninterruptible power supplies	CyberPower	UPS 650VA CyberPower "BS650E", Black (USB)		50.63
 4819	Computer equipment and components	Uninterruptible power supplies	CyberPower	UPS 650VA CyberPower "UT650E", Black		29.79
 4820	Computer equipment and components	Uninterruptible power supplies	CyberPower	UPS 650VA CyberPower "UTC650E", Black		24.78
@@ -5987,11 +5987,11 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 5986	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Sculpt Ergonomic" L5V-00017, wireless, Black (USB)		80.64
 5987	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wired Desktop 600" APB-00011, waterproof, Black (USB)		20.98
 5988	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wired Desktop 600" 3J2-00015, waterproof, Black (USB)		17.2
-5989	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wireless 3050 Desktop" PP3-00018, wireless, Black (USB)		45.28
+5989	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wireless 3750 Desktop" PP7-00022, wireless, Black (USB)		45.28
 5990	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wireless 3050 Desktop" PP3-00018, wireless, Black (USB)		44.24
 5991	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wireless 850 Desktop" PY9-00012, wireless, Black (USB)		26.42
 5992	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wireless 900 Desktop" PT3-00017, wireless, Black (USB)		37.67
-5993	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wireless Comfort 5050 Desktop" PP4-00017, wireless, Black (USB)		49.73
+5993	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wireless Comfort 5051x Desktop" PP7-00037, wireless, Black (USB)		49.73
 5994	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wireless Comfort 5050 Desktop" PP4-00017, wireless, Black (USB)		49.29
 5995	Computer equipment and components	Kits (Keyboard+Mouse)	Microsoft	Kit Keyboard+Mouse Microsoft "Wireless Desktop 2000" M7J-00012, wireless, Black (USB)		30.8
 5996	Computer equipment and components	Kits (Keyboard+Mouse)	Sven	Kit Keyboard+Mouse Sven "Comfort 3300 Wireless", wireless, Black (USB)		11.44
@@ -6319,7 +6319,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 6318	Computer equipment and components	Controllers	Orient	Controller USB3.0 (4 external) Orient "NC-3U4PE" (PCI-E x1)		12.52
 6319	Computer equipment and components	Controllers	Orient	Controller USB3.0 (4 external) Orient "VA-3U4PE" (PCI-E x1)		12.4
 6320	Computer equipment and components	Controllers	STLab	Controller COM (2 external 9pin) STLab "I-390" (PCI)		11.35
-6321	Computer equipment and components	Controllers	STLab	Controller COM (2 external 9pin + 2 internal 9pin) + LPT (1 internal) STLab "I-461" (PCI-E x1)		35.51
+6321	Computer equipment and components	Controllers	STLab	Controller COM (2 external 9pin + 2 internal 9pin) + LPT (1 internal) STLab "I-461" (PCI-E x2)		35.51
 6322	Computer equipment and components	Controllers	STLab	Controller COM (2 external 9pin + 2 internal 9pin) + LPT (1 internal) STLab "I-461" (PCI-E x1)		33.92
 6323	Computer equipment and components	Controllers	STLab	Controller COM (2 external 9pin + 4 internal 9pin) STLab "I-472" (PCI-E x1)		38.27
 6324	Computer equipment and components	Controllers	STLab	Controller COM (2 external 9pin) STLab "CP-120" (PCI-E x1)		27.78
@@ -7109,7 +7109,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 7108	Computer equipment and components	Mice	Microsoft	Optical Mouse Microsoft "Bluetooth Mobile 3600" PN7-00024, wireless, 2 buttons+scroll, Blue-Black (Bluetooth)		21.72
 7109	Computer equipment and components	Mice	Microsoft	Optical Mouse Microsoft "Comfort Mouse 4500" 4FD-00024, 4 buttons+scroll, Silver-Black (USB)		15.39
 7110	Computer equipment and components	Mice	Microsoft	Optical Mouse Microsoft "Designer Bluetooth" 7N5-00004, wireless, 2 buttons+scroll, Black (Bluetooth)		22.23
-7111	Computer equipment and components	Mice	Microsoft	Optical Mouse Microsoft "Sculpt Comfort Mouse" H3S-00002, wireless, 3 buttons+scroll, Black-Blue (Bluetooth)		28.35
+7111	Computer equipment and components	Mice	Microsoft	Optical Mouse Microsoft "Sculpt Comfort Mouse" H93-00017, wireless, 3 buttons+scroll, Black-Blue (Bluetooth)		28.35
 7112	Computer equipment and components	Mice	Microsoft	Optical Mouse Microsoft "Sculpt Comfort Mouse" H3S-00002, wireless, 3 buttons+scroll, Black-Blue (Bluetooth)		28.35
 7113	Computer equipment and components	Mice	Microsoft	Optical Mouse Microsoft "Sculpt Ergonomic Mouse" L6V-00005, wireless, 4 buttons+scroll, Black (USB)		39.35
 7114	Computer equipment and components	Mice	Microsoft	Optical Mouse Microsoft "Wireless Mobile Mouse 1850" U7Z-00014, wireless, 2 buttons+scroll, Blue (USB)		10.22
@@ -7684,7 +7684,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 7683	Computer equipment and components	Processors	Intel	Processor Intel "Core i3-6300" (3.80GHz, 2x256KB+4MB EM64T, GPU) Socket1151		165.68
 7684	Computer equipment and components	Processors	Intel	Processor Intel "Core i3-6320" (3.90GHz, 2x256KB+4MB EM64T, GPU) Socket1151		160.21
 7685	Computer equipment and components	Processors	Intel	Processor Intel "Core i3-7100" (3.90GHz, 2x256KB+3MB EM64T, GPU) Socket1151		147.41
-7686	Computer equipment and components	Processors	Intel	Processor Intel "Core i3-7320" (4.10GHz, 2x256KB+4MB EM64T, GPU) Socket1151		165.58
+7686	Computer equipment and components	Processors	Intel	Processor Intel "Core i3-7320" (4.10GHz, 3x256KB+8MB EM64T, GPU) Socket1151		165.58
 7687	Computer equipment and components	Processors	Intel	Processor Intel "Core i3-7320" (4.10GHz, 2x256KB+4MB EM64T, GPU) Socket1151		170.6
 7688	Computer equipment and components	Processors	Intel	Processor Intel "Core i3-8100" (3.60GHz, 4x256KB+6MB EM64T, GPU) Socket1151		149.53
 7689	Computer equipment and components	Processors	Intel	Processor Intel "Core i5-6400" (2.70GHz, 4x256KB+6MB EM64T, GPU) Socket1151		213.02
@@ -8249,11 +8249,11 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 8248	Computer equipment and components	Termoprinters	Zebra	Sublimation printer Zebra "ZXP3", for printing plastic cards, Black (USB)		879.56
 8249	Computer equipment and components	Termoprinters	Zebra	Sublimation printer Zebra "ZXP3", for printing plastic cards, White-Black (USB)		1088.51
 8250	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "GC420t", for label printing, 104 mm, Black (COM, LPT, USB)		257.22
-8251	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "GK420t", for label printing, 104 mm, Black (USB, LAN)		526.19
+8251	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "GK420tx", for label printing, 104 mm, Black (USB, LAN)		526.19
 8252	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "GK420t", for label printing, 104 mm, Black (USB, LAN)		553.18
 8253	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "Gx420t", for label printing, 104 mm, Black (COM, LPT, USB)		455.31
 8254	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "ZD420", for label printing, 104 mm, White (USB, Bluetooth)		409.75
-8255	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "ZT410", for label printing, 104 mm, Black (COM, USB, LAN, Bluetooth)		2636.79
+8255	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "ZT510x", for label printing, 104 mm, Black (COM, USB, LAN, Bluetooth)		2636.79
 8256	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "ZT410", for label printing, 104 mm, Black (COM, USB, LAN, Bluetooth)		1361.54
 8257	Computer equipment and components	Termoprinters	Zebra	Thermal transfer printer Zebra "TLP 2824", for label printing, 56 mm, White (COM, USB)		389.14
 8258	Tools	Technical hair dryers	Bosch	Accessory for hot air gun - welding nozzle Bosch 1609201798		26.09
@@ -8377,7 +8377,7 @@ For UPS!		2.66
 8375	Computer equipment and components	Extension cords, filters, voltage converters	Garrison	Surge protector for 6 sockets Garrison "EHW-0", White (0.5 m) type IEC C14		2.66
 8376	Computer equipment and components	Extension cords, filters, voltage converters	Garrison	Surge protector for 6 sockets Garrison "EHW-10", White (3.0 m)		3.49
 8377	Computer equipment and components	Extension cords, filters, voltage converters	Garrison	Power Supply Extension for 3 Sockets Garrison "EL-NB-G3-W-2", White (2.0 m)		2.62
-8378	Computer equipment and components	Extension cords, filters, voltage converters	Garrison	Power Supply Extension for 3 Sockets Garrison "EL-NB-G3-W-3", White (3.0 m)		2.95
+8378	Computer equipment and components	Extension cords, filters, voltage converters	Garrison	Power Supply Extension for 3 Sockets Garrison "EX-NBE-G3-W-5", White (3.0 m)		2.95
 8379	Computer equipment and components	Extension cords, filters, voltage converters	Garrison	Power Supply Extension for 3 Sockets Garrison "EL-NB-G3-W-3", White (3.0 m)		3.63
 8380	Computer equipment and components	Smart watches and bracelets	ACD	Bracelet ACD "Lime 107HR" (BT, 0.49"), Black		13.92
 8381	Computer equipment and components	Smart watches and bracelets	ACD	Bracelet ACD "Lime 115" (BT, 0.86"), Black		16.79
