@@ -336,8 +336,8 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 335	Large home appliances	Washing machines 46-60 cm	Schaub Lorenz	Washing machine Schaub Lorenz Slw Mc6131		275.69
 336	Large home appliances	Washing machines 46-60 cm	Schaub Lorenz	Washing machine Schaub Lorenz Slw Mc6132		302.76
 337	Large home appliances	Washing machines 46-60 cm	Schaub Lorenz	Washing machine Schaub Lorenz Slw Mc6133		324.16
-338	Large home appliances	Washing machines 40-45 cm	Weissgauff 	Washing machine Weissgauff Wm 4126 D		267.1
-339	Large home appliances	Washing machines 46-60 cm	Weissgauff 	Washing machine Weissgauff Wmd 4148 D		433.01
+338	Large home appliances	Washing machines 40-45 cm	Weissgauff	Washing machine Weissgauff Wm 4126 D		267.1
+339	Large home appliances	Washing machines 46-60 cm	Weissgauff	Washing machine Weissgauff Wmd 4148 D		433.01
 340	Large home appliances	Washing machines 40-45 cm	Atlent	Washing machine Atlent Sma 50 U 101-00		229.32
 341	Large home appliances	Washing machines 40-45 cm	Atlent	Washing machine Atlent Sma 50 U 102 	White, 5 kg, 40 cm, 1000 rpm, display	234.34
 342	Large home appliances	Washing machines 40-45 cm	Atlent	Washing machine Atlent Sma 50 U 107-000	load 5 kg, 1000 rpm, 846x596x421, 15 programs mm, segment display, LED indication	233.41
@@ -572,7 +572,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 571	Large home appliances	Electric Cookers with Cast Iron Burners	Machta	Electric Cooker Machta 29	2tan-k-220v, 2.2kw, 5 step switches, electric oven, 500*430*850	100.92
 572	Large home appliances	Electric Cookers with Cast Iron Burners	Machta	Electric Cooker Machta 341T	Rated voltage, V 220	111.89
 573	Large home appliances	Electric Cookers with Cast Iron Burners	Machta	Electric Cooker Machta 341Ch	Rated supply voltage, 220 V	117.96
-574	Household products	Household chemicals	Filtero 	Liquid Descaler Filtero 605, 250ml		3.43
+574	Household products	Household chemicals	Filtero	Liquid Descaler Filtero 605, 250ml		3.43
 575	Embedded Technology	Hoods	Akpo	Hood Akpo Rondo Turbo 50 (White)		60.63
 576	Embedded Technology	Hoods	Bosch	Hood Bosch Dfr067E51	Hood BOSCH/ 60 cm, Productivity 730 m3/h, 3 modes, LED backlight, Stainless steel	441.73
 577	Embedded Technology	Hoods	Bosch	Hood Bosch Dhi642Eq		98.28
@@ -908,7 +908,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 907	Embedded Technology	Hoods	Zigmund & Shtain	Hood Zigmund & Shtain K 376.71 S		138.3
 908	Embedded Technology	Hoods	Zigmund & Shtain	Hood Zigmund & Shtain K 376.71 W		127.34
 909	Embedded Technology	Hood Accessories	Akpo	Accessorie Akpo Combined adapter White 95*100		0.92
-910	Embedded Technology	Hood Accessories	Elicor	Accessorie Elicor Knee Stainless Steel 126 s		3.83
+910	Embedded Technology	Hood Accessories	Elikor	Accessorie Elicor Knee Stainless Steel 126 s		3.83
 911	Embedded Technology	Hood Accessories	Krona	Set of Baguettes Krona for Gretta 600 Cpb/O Unpainted		63.54
 912	Embedded Technology	Hood Accessories	Krona	Set of Baguettes Krona for Serena 600 Cpb/O Unpainted		70.8
 913	Embedded Technology	Hood Accessories	Lex	Box For Hoods Lex Plaza 600 (White)		12.68
@@ -1076,7 +1076,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 1075	Embedded Technology	Ceramic Surfaces Independent Domino	Krona	Surface Cooking Krona Vento 30 Bl		111.75
 1076	Embedded Technology	Gas Surfaces 60 cm	Krona	Surface Cooking Krona Vettore 60 Ix 		189.69
 1077	Embedded Technology	Ceramic Surfaces Independent 60 cm	Kuppersberg	Surface Cooking Kuppersberg Ecs 603		204.35
-1078	Embedded Technology	Gas Surfaces 60 cm	Kuppersberg 	Surface Cooking Kuppersberg Fq 63 W		232.89
+1078	Embedded Technology	Gas Surfaces 60 cm	Kuppersberg	Surface Cooking Kuppersberg Fq 63 W		232.89
 1079	Embedded Technology	Gas Surfaces 60 cm	Kuppersberg	Surface Cooking Kuppersberg Fv6Tgrz Ant Silver	Metall gas hob, 60 cm wide, 4 gas burners, 1 high power burner, auto ignition, gas control, cast iron grates, anthracite/silver handles	275.69
 1080	Embedded Technology	Induction Ceramic Surfaces Independent 45 cm	Kuppersberg	Surface Cooking Kuppersberg Ico 402		198.54
 1081	Embedded Technology	Electric Surfaces Independent Cast Iron Hobs	Lex	Surface Cooking Lex Eve 320 Bl		46.5
@@ -1431,9 +1431,9 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 1430	Embedded Technology	Built-in Dishwashers 45 cm	Hansa	Dishwasher Hansa Zim614Lh		291.67
 1431	Embedded Technology	Built-in Dishwashers 60 cm	Hansa	Dishwasher Hansa Zim647Elh		370.27
 1432	Embedded Technology	Built-in Dishwashers 60 cm	Hansa	Dishwasher Hansa Zim686Seh		321.92
-1433	Embedded Technology	Built-in Dishwashers 45 cm	Krona 	Dishwasher Krona Delia 45 Bi		215.98
-1434	Embedded Technology	Built-in Dishwashers 45 cm	Krona 	Dishwasher Krona Kaskata 45 Bi		263.14
-1435	Embedded Technology	Built-in Dishwashers 45 cm	Krona 	Dishwasher Krona Kaskata 60 Bi		273.18
+1433	Embedded Technology	Built-in Dishwashers 45 cm	Krona	Dishwasher Krona Delia 45 Bi		215.98
+1434	Embedded Technology	Built-in Dishwashers 45 cm	Krona	Dishwasher Krona Kaskata 45 Bi		263.14
+1435	Embedded Technology	Built-in Dishwashers 45 cm	Krona	Dishwasher Krona Kaskata 60 Bi		273.18
 1436	Embedded Technology	Built-in Dishwashers 45 cm	Kuppersberg	Dishwasher Kuppersberg Gs 4533		349.39
 1437	Embedded Technology	Built-in Dishwashers 45 cm	Lex	Dishwasher Lex Pm 4572		281.1
 1438	Embedded Technology	Built-in Dishwashers 45 cm	Lex	Dishwasher Lex Pm 6052  		253.63
@@ -2499,29 +2499,29 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 2498	Climatic Equipment	Water Heaters Accumulative	Elsotherm	Water Heater Elsotherm Ck8A	Tank 8 l. Power heating element 2000	51.25
 2499	Climatic Equipment	Water Heaters Accumulative	Elsotherm	Water Heater Elsotherm H30T	30 l., stainless steel tank; power 500/1500/2000, Copper heater; 2 groups load / email; Possibility of reg / power heating elements; The presence of a magnesium anode; Efficient thermal insulation made of polyurethane foam, Protective shutdown device; Digital thermostat, (590*340*350)	98.28
 2500	Climatic Equipment	Water Heaters Accumulative	Elsotherm	Water Heater Elsotherm Rgf 80	Round, Gray, flowers, 80l	118.23
-2501	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Fp-10 L White	Water Heater Accumulative OASIS FP-10 White, 10 l, 1.5 kW, enamel, mechanical control, installation under the sink, top connection	49.8
-2502	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Gn-10	Water Heater Accumulative OASIS GN-10 White, 10 l, 1.5 kW, enamel, electronic control, installation above the sink, bottom connection	59.71
-2503	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Gn-15	Water Heater Accumulative OASIS GN-15 White, 15 l, 1.5 kW, enamel, electronic control, installation above the sink, bottom connection	66.84
-2504	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Gp-15	Water Heater Accumulative OASIS GP-15 White, 15 l, 1.5 kW, enamel, electronic control, installation under the sink, top connection	66.84
-2505	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis KN-15		78.99
-2506	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis KP-10		67.9
-2507	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis KP-15		77.8
-2508	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Ln-10		55.08
-2509	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Ln-15		61.95
-2510	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Lp-10		55.35
-2511	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Lp-15		61.95
-2512	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis P-30		128.27
-2513	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis P-50		153.89
-2514	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis P-80		183.09
-2515	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Pa-30		117.96
-2516	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Pv-50 Lp White	White, 50 l, 2000 W, Stainless steel, mechanical control, vertical	135.53
-2517	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Sl-30 V 	White, 30 l, 1500 W, glass enamel, mechanical control, vertical	80.18
-2518	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Sl-50 V 	White, 50 l, 1500 W, glass enamel, mechanical control, vertical	83.62
-2519	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Sl-80 V White	Water Heater Accumulative OASIS SL-80 V White, 80 l, 1.5 kW, glass enamel, mechanical control, vertical installation, bottom connection	112.81
-2520	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Vl-100 L		110.96
-2521	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Vl-30 L		72.92
-2522	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Vl-50 L		79.26
-2523	Climatic Equipment	Water Heaters Accumulative	Oasis 	Water Heater Oasis Vl-80 L		103.56
+2501	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Fp-10 L White	Water Heater Accumulative OASIS FP-10 White, 10 l, 1.5 kW, enamel, mechanical control, installation under the sink, top connection	49.8
+2502	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Gn-10	Water Heater Accumulative OASIS GN-10 White, 10 l, 1.5 kW, enamel, electronic control, installation above the sink, bottom connection	59.71
+2503	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Gn-15	Water Heater Accumulative OASIS GN-15 White, 15 l, 1.5 kW, enamel, electronic control, installation above the sink, bottom connection	66.84
+2504	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Gp-15	Water Heater Accumulative OASIS GP-15 White, 15 l, 1.5 kW, enamel, electronic control, installation under the sink, top connection	66.84
+2505	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis KN-15		78.99
+2506	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis KP-10		67.9
+2507	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis KP-15		77.8
+2508	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Ln-10		55.08
+2509	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Ln-15		61.95
+2510	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Lp-10		55.35
+2511	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Lp-15		61.95
+2512	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis P-30		128.27
+2513	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis P-50		153.89
+2514	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis P-80		183.09
+2515	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Pa-30		117.96
+2516	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Pv-50 Lp White	White, 50 l, 2000 W, Stainless steel, mechanical control, vertical	135.53
+2517	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Sl-30 V 	White, 30 l, 1500 W, glass enamel, mechanical control, vertical	80.18
+2518	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Sl-50 V 	White, 50 l, 1500 W, glass enamel, mechanical control, vertical	83.62
+2519	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Sl-80 V White	Water Heater Accumulative OASIS SL-80 V White, 80 l, 1.5 kW, glass enamel, mechanical control, vertical installation, bottom connection	112.81
+2520	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Vl-100 L		110.96
+2521	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Vl-30 L		72.92
+2522	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Vl-50 L		79.26
+2523	Climatic Equipment	Water Heaters Accumulative	Oasis	Water Heater Oasis Vl-80 L		103.56
 2524	Climatic Equipment	Water Heaters Accumulative	Regent	Water Heater Regent Nts 100V 	White, 100 l, 1500 W, enamel, mechanical control, vertical	94.98
 2525	Climatic Equipment	Water Heaters Accumulative	Regent	Water Heater Regent Nts 30V Slim 	White, 30 l, 1500 W, enamel, mechanical control, vertical	67.9
 2526	Climatic Equipment	Water Heaters Accumulative	Regent	Water Heater Regent Nts 80V 	White, 80 l, 1500 W, enamel, mechanical control, vertical	77.41
@@ -2662,9 +2662,9 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 2661	Small Kitchen Appliances	Microwave ovens	Econ	Microwave oven Econ Eco-2030M		51.91
 2662	Small Kitchen Appliances	Microwave ovens	Econ	Microwave oven Econ Eco-2065D		57.73
 2663	Small Kitchen Appliances	Microwave ovens	Electrolux	Microwave oven Electrolux Ems 20300Ox	Solo (without grill and convection), volume 13 l, microwave power 800 W, electronic control, automatic modes: defrost, cooking, dimensions (WxHxG): 41.6x28x36.7 Color silver	156.4
-2664	Small Kitchen Appliances	Microwave ovens	Hansa 	Microwave oven Hansa Amgf20E1Gfbh		128.13
-2665	Small Kitchen Appliances	Microwave ovens	Hansa 	Microwave oven Hansa Amgf20E1Gfwh		128.13
-2666	Small Kitchen Appliances	Microwave ovens	Hansa 	Microwave oven Hansa Ammf20M1Bh		81.77
+2664	Small Kitchen Appliances	Microwave ovens	Hansa	Microwave oven Hansa Amgf20E1Gfbh		128.13
+2665	Small Kitchen Appliances	Microwave ovens	Hansa	Microwave oven Hansa Amgf20E1Gfwh		128.13
+2666	Small Kitchen Appliances	Microwave ovens	Hansa	Microwave oven Hansa Ammf20M1Bh		81.77
 2667	Small Kitchen Appliances	Microwave ovens	Kraft	Microwave oven Kraft Kf20Mw7W-101M		51.52
 2668	Small Kitchen Appliances	Microwave ovens	Endever	Microwave oven Endever Danko-2003 White		83.35
 2669	Small Kitchen Appliances	Microwave ovens	Lg	Microwave oven Lg Mb 63R35Gih		144.65
@@ -2849,7 +2849,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 2848	Small Kitchen Appliances	Multicookers	Neptun	Multicooker Neptun Do-1014 	Black, 860 W, 5 l, 16 programs, ceramic coating	54.56
 2849	Household products	Robot Vacuum Cleaners	Comfee	Robot Vacuum Cleaner Comfee Cfr05		64.86
 2850	Household products	Cyclone Vacuum Cleaners	Eurostek	Vacuum Cleaner Eurostek Evc-Hj01C		58.39
-2851	Household products	Cyclone Vacuum Cleaners	Midea 	Vacuum Cleaner Vertical Midea VCS142		22.46
+2851	Household products	Cyclone Vacuum Cleaners	Midea	Vacuum Cleaner Vertical Midea VCS142		22.46
 2852	Household products	Cyclone Vacuum Cleaners	Eurostek	Vacuum Cleaner Eurostek Evc-Hj02C		58.39
 2853	Household products	Vacuum cleaners with dust bag	Centek	Vacuum Cleaner Centek Ct-2503 	2000/400W, power regulator, telescope, V bag 2.5L (White/orange)	53.76
 2854	Household products	Vacuum cleaners with dust bag	Centek	Vacuum Cleaner Centek Ct-2509 (Red) With Bag	Vacuum Cleaner Centek CT-2509 (Red) 1600/320W, fabric bag, telescopic tube	37.78
@@ -3111,7 +3111,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 3110	Small Kitchen Appliances	Juicers	Leran	Juicer Leran Jem 0855		35.8
 3111	Small Kitchen Appliances	Juicers	Philips	Juicer Philips Hr 1832/02	Centrifugal, power 500 W, direct juice supply, juice tank 0.5 l, 1 speed, automatic pulp ejection	80.45
 3112	Small Kitchen Appliances	Juicers	Sadovaya	Juicer Sadovaya Swpp-301 		52.97
-3113	Small Kitchen Appliances	Juicers	Sadovaya 	Juicer Sadovaya Swshpp-302 	250 W 850 gr/min 1 speed, shredder, Color	53.63
+3113	Small Kitchen Appliances	Juicers	Sadovaya	Juicer Sadovaya Swshpp-302 	250 W 850 gr/min 1 speed, shredder, Color	53.63
 3114	Small Kitchen Appliances	Juicers	Salut	Juicer Salut Svpr-201 	White 400 W, 1000 gr/min, 1 speed	83.09
 3115	Small Kitchen Appliances	Juicers	Chudesnitsa	Juicer Chudesnitsa Es-208		25.36
 3116	Small Kitchen Appliances	Marinaters/Dryers For Food	Zigmund & Shtain	Dryer Zigmund & Shtain Zfd-400		46.23
@@ -3122,7 +3122,7 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 3121	Small Kitchen Appliances	Marinaters/Dryers For Food	Oka	Dryer Oka ES-03		22.19
 3122	Small Kitchen Appliances	Marinaters/Dryers For Food	Rotor	Dryer Rotor Ssh-2		41.87
 3123	Small Kitchen Appliances	Marinaters/Dryers For Food	Rotor	Dryer Rotor-Diva Ssh-7		41.87
-3124	Small Kitchen Appliances	Coffee & Tea Makers	Lex 	Coffee Makers Lex LX-3501-1		23.25
+3124	Small Kitchen Appliances	Coffee & Tea Makers	Lex	Coffee Makers Lex LX-3501-1		23.25
 3125	Small Kitchen Appliances	Coffee & Tea Makers	Centek	Coffee Makers Centek Ct-1160 Black 		35.4
 3126	Small Kitchen Appliances	Coffee & Tea Makers	Endever	Coffee Makers Endever Kr-220		15.85
 3127	Small Kitchen Appliances	Coffee & Tea Makers	Eurostek	Coffee Makers Eurostek Ecm-6811		29.19
@@ -3161,8 +3161,8 @@ Code	Group	Subgroup	Brand	Item	Description	Wholesale price (USD)
 3160	Small Kitchen Appliances	Scales Kitchen	Sakura	Scales Sakura Sa-6076M Kitchen Muffins		7.93
 3161	Small Kitchen Appliances	Scales Kitchen	Sakura	Scales Sakura Sa-6076S Kitchen Chocolate		7.93
 3162	Small Kitchen Appliances	Scales Kitchen	Sakura	Scales Sakura Sa-6077Bs Kitchen Pepers		8.06
-3163	Small Kitchen Appliances	Kettles Electric	Lex 	Kettle Lex LX-3001-1 (Black)		17.17
-3164	Small Kitchen Appliances	Kettles Electric	Lex 	Kettle Lex LX-3001-2 (White)		17.17
+3163	Small Kitchen Appliances	Kettles Electric	Lex	Kettle Lex LX-3001-1 (Black)		17.17
+3164	Small Kitchen Appliances	Kettles Electric	Lex	Kettle Lex LX-3001-2 (White)		17.17
 3165	Small Kitchen Appliances	Kettles Electric	Eurostek	Kettle Eurostek Eek-Gl02P		12.95
 3166	Small Kitchen Appliances	Kettles Electric	Eurostek	Kettle Eurostek Eek-Tp01P		13.47
 3167	Small Kitchen Appliances	Kettles Electric	Eurostek	Kettle Eurostek Eek-Tp02P		13.47
