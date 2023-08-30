@@ -163,3 +163,4 @@ cython_debug/
 normalized/
 data/RetailGoodsAndPricesSample.csv
 orders/
+tmp/
